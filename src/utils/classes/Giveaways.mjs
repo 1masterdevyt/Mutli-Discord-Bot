@@ -14,7 +14,7 @@ export default class GiveawaysManager extends vanteGA.GiveawaysManager {
             default: {
                 botsCanWin: true,
                 embedColor: client.embed.color,
-                buttonEmoji: '🎉',
+                buttonEmoji: ':tada~3:',
                 buttonStyle: ButtonStyle.Secondary,
                 lastChance: {
                     enabled: true,
