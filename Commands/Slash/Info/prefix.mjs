@@ -5,7 +5,7 @@ import Prefix from '../../Prefix/Info/prefix.mjs';
 /**@type {import('../../../src/utils/Command.mjs').interaction} */
 export default {
   data: new SlashCommandBuilder()
-    .setName(',')
+    .setName('prefix')
     .setDescription('Shows You Server Prefix!')
     .setDMPermission(false),
   category: "General",
