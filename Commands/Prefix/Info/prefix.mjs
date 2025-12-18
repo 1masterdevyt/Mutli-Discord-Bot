@@ -2,7 +2,7 @@ import EmbedBuilder from '../../../src/utils/classes/EmbedBuilder.mjs';
 /** @type {import("../../../src/utils/Command.mjs").prefix} */
 
 export default {
-    name: "prefix",
+    name: ",",
     cooldown: 5,
     description: "Returns Bot prefix",
     aliases: [],
